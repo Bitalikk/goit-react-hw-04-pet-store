@@ -1,0 +1,33 @@
+{
+  "files": {
+    "static/js/0.efc3d028.chunk.js": "/static/js/0.efc3d028.chunk.js",
+    "static/js/0.efc3d028.chunk.js.map": "/static/js/0.efc3d028.chunk.js.map",
+    "about-page.css": "/static/css/about-page.95fdc90f.chunk.css",
+    "about-page.js": "/static/js/about-page.238b9afc.chunk.js",
+    "about-page.js.map": "/static/js/about-page.238b9afc.chunk.js.map",
+    "home-page.css": "/static/css/home-page.34ec1abb.chunk.css",
+    "home-page.js": "/static/js/home-page.72019d20.chunk.js",
+    "home-page.js.map": "/static/js/home-page.72019d20.chunk.js.map",
+    "main.css": "/static/css/main.531cbda5.chunk.css",
+    "main.js": "/static/js/main.3a48cb2a.chunk.js",
+    "main.js.map": "/static/js/main.3a48cb2a.chunk.js.map",
+    "pet-page.css": "/static/css/pet-page.32f14e61.chunk.css",
+    "pet-page.js": "/static/js/pet-page.aaab4968.chunk.js",
+    "pet-page.js.map": "/static/js/pet-page.aaab4968.chunk.js.map",
+    "pets-page.css": "/static/css/pets-page.dfca4b49.chunk.css",
+    "pets-page.js": "/static/js/pets-page.74b4c535.chunk.js",
+    "pets-page.js.map": "/static/js/pets-page.74b4c535.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.805c2edf.js",
+    "runtime~main.js.map": "/static/js/runtime~main.805c2edf.js.map",
+    "static/js/7.0d529ffb.chunk.js": "/static/js/7.0d529ffb.chunk.js",
+    "static/js/7.0d529ffb.chunk.js.map": "/static/js/7.0d529ffb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8d8a7f0a81c967d2de5813e4ecc9c47a.js": "/precache-manifest.8d8a7f0a81c967d2de5813e4ecc9c47a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/about-page.95fdc90f.chunk.css.map": "/static/css/about-page.95fdc90f.chunk.css.map",
+    "static/css/home-page.34ec1abb.chunk.css.map": "/static/css/home-page.34ec1abb.chunk.css.map",
+    "static/css/main.531cbda5.chunk.css.map": "/static/css/main.531cbda5.chunk.css.map",
+    "static/css/pet-page.32f14e61.chunk.css.map": "/static/css/pet-page.32f14e61.chunk.css.map",
+    "static/css/pets-page.dfca4b49.chunk.css.map": "/static/css/pets-page.dfca4b49.chunk.css.map"
+  }
+}

@@ -1,0 +1,25 @@
+.petsList {
+  padding: 0;
+  list-style: none;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.item {
+  width: 27%;
+  height: auto;
+  text-decoration: none;
+  border: 1px solid black;
+  margin-bottom: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+.image {
+  display: block;
+  width: 90%;
+  margin: auto;
+}

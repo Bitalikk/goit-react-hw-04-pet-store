@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{46:function(n,e,o){n.exports={container:"HomePage_container__K_1TI"}},69:function(n,e,o){"use strict";o.r(e);var t=o(0),a=o.n(t),c=o(46),r=o.n(c);e.default=function(){return a.a.createElement("h1",{className:r.a.container},"Welcome to Paws online store")}}}]);
+//# sourceMappingURL=home-page.72019d20.chunk.js.map
